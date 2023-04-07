@@ -1,0 +1,272 @@
+# https://blog.csdn.net/prochsh/article/details/8888808
+对电影、电视剧等资源来源有兴趣的童鞋的科普，需要一定的混PT的经验才能看懂！有相关经验的，定会收益很多，有种豁然开朗的感觉！！
+
+关键词一：0day
+
+广义上的0day包含两种概念：
+
+0day攻击，一种对计算机软件的攻击方式
+
+0day资源，一种Warez
+
+在本站的语境下，0day多指后者。
+
+0day中的0表示zero，其更准确的称呼是Zero-day warez（copyrighted software that is cracked on the same day it is released）
+
+0day 最初定义是在官方发行软件或游戏后24小时内出现的破解版本，一些技术小组对这些软件或游戏以一定的格式进行打包发布，通过匿名的FTP渠道最终共享全球，是一种Warz。现在只要是在软件或者其他资源发布后，于最短时间内出现的相关破解，都归入0day的范畴。0day因此也经常被视为破解的同义词。
+
+Warez 则是指在电脑领域非法交换的软件（盗版拷贝）。这个词最初源自于英语单词Software，然后在Leet语（黑客语）里将单词的复数“S”换成“Z”。 还有一种说法则认为, Z表示Zero Day的Z。随着互联网的发展，如今已发展为指代涵盖游戏，音乐，影视等各种数据资源。
+
+在一般情况下，指称0day资源的0day和WareZ基本上可视为同义词。
+
+关键词二：
+
+维基百科对于Scene的解释：
+
+The Warez scene, mostly referred to as The Scene (often capitalized) is a term of reference used to describe an underground community of people that specialize in the illegal distribution of pirated material, currently being TV, movies, music/music videos, games (all platforms), applications (all platforms), ebooks, and pornography.
+
+Scenelingo对于Scene的解释：
+
+The “Scene”, when used in this context, is used to describe the underground culture devoted to releasing movies, reverse-engineering and cracking software, and ripping music, and releasing these things on the internet.
+
+Scene， 可以译为“业界”，通常理解为一个圈子，类似于工商界，学界这样的概念。广义上的”业界”指在一个圈子里的一些人或机构以及他们之间错综复杂的关系总和， 用户则被排斥于业界之外。通俗地说，Scene就是松散的非盈利性盗版制作发行联盟。这个联盟内部没有上下级的领导，但是有着自己正式和非正式的约定。 Scene也可以理解为各个盗版小组发行和交换资源的整个体系的总体称呼。
+
+关键词三：Scene Group
+
+所 谓的Scene Group是Scene这个联盟内的若干个小组，可以是很多人合作，也可以是个人操作，但是无论Group是以何种形式组织，其操作都是试图将影视、音 乐、游戏、软件等资源经过抓取、压缩等技术的操作之后通过互联网进行传播。他们传播的作品我们称为Release，简称rlz，Scene Group是rlz Group的一种类型，但并非所有的rlz group都是Scene Group。(主页君注：不是rls？)
+
+维基百科对于Release Groups的解释:
+
+Release Groups A.k.a rlz Group
+
+A number of people working together to obtain and release new games, utilities or patches on to the net. A release is made when a correctly packaged file is uploaded to a private FTP for other release group members to access. Release groups generally follow a set of rules governing the correct etiquette to package releases, failure to do so results in a Nuke. Many groups have specialised in releasing games for a particular console.
+
+Releases that come from an individual not belonging to any group are usually labeled as Independent.
+
+这个定义点出了rlz group的一些特点：Internet，FTP，release 但是对象并不完整，事实上的Release Groups发布对象涵盖影视、软件、游戏、音乐、资料等各种数据资源。
+
+每个rlz group发布作品均包含说明该发布作品的NFO文件，此文件主要包含发布组信息、发布作品的信息、破解信息等。nfo文件可通过专门的软件查看，也可使用系统自带的记事本查看。
+
+在目前国内比较权威的0day信息发布平台xtm的BBS上，rlz group的作品被主要分为了四个板块：
+
+关键词四：Topsite，简称TS
+
+维基百科对于Topsite的解释:
+
+Topsite is a term used by the warez scene to refer to high-speed FTP servers used by release groups and couriers for distribution, storage and archiving of warez releases.
+
+Topsite 是一个Warez术语。由私密的Irc和FTP组成，Irc用于Scene Group成员的交流，FTP则用于Scene Group发布Warez。进入IRC需要对申请者进行极严格的审查，包括技术、资源甚至是人品，而FTP的限制则更为严格，甚至只能在限定的IP地址段 内才能登录。一般Topsite拥有Tb级的硬盘和100Mbit以上的宽带。
+
+根据Scene Rules，Scene group会把自己发布的视频类作品用WinRAR压缩成一定大小的多个分包，以便于分流，这也是为什么我们会经常看到一些文件由若干个rar压缩包组成的原因。
+
+一个Topsite通常包含若干个group（即Scene Group，简称grp），每个grp的核心领袖称OP，grp是WareZ的直接制造者，他们的作品最终汇总到topsite中进行统一发布。在每个 topsite中，又有详细的分工，以MovieZ为例：负责提供原材料（DVD、Bluray-Disc等原盘）的supplier，负责抓取压制的 ripper，负责传输到TS上的racer等。
+
+有些topsite的成员，会将topsite的作品传到自己所在的其他FTP（非Topsite）里，这种行为称dump。从TS上获取WareZ的FTP站点称为Dump站。
+
+通 常Scene Group在TS上会进行竞赛，也就是race，比较哪个grp发布的速度最快发布的作品品质最好，其主要原则是，对于同一种资源，如果有一个grp最先 发布出来，除非nuke，否则其他grp的rlz就不再被允许发布到TS上。TS服务器一般都带有各种验证工具和脚本会自动计算race后的结果，也就是 credit，类似于PT站点的ratio。grp的racer参与race的过程，以维持grp在TS中的位置，若长期排在末位则会被TS ban掉，因并非所有的grp成员都有TS帐号，grp通常内部会有自己的dump站，racer也需负责将TS上的Warez搬运到Dump站来，供 grp的其他成员分享。Topsite上还有一类特殊leech帐号，提供给对TS做出特殊贡献的人（supplier，retirer或者捐助者）使用 者不需要参与race，因此不受race结果限制而可以随意的分享TS上的Warez。
+
+Warez hierarchy（等级）：
+
+关键词五：pre/pretime
+
+pre 是指某grp成员将制作好的资源上传到topsite后（首先上传到小组内部目录），把资源转移到topsite上所有用户有下载权限的目录里，同时脚本 会自动在该TS的IRC上发布该rlz的相关信息。此过程称“preing”而这段时间则称为pretime，此后这一个rlz状态变成pre‘d（前提 是不出BUG，有问题则会被nuked。其他小组如果继续发布相同的资源则会被dupe，除非某其他的grp制作出更好rlz，此时这个更好的rlz会标 注tag proper
+
+另外pretime也可以理解为从release被上传到TS后到资源被制作成种子并发布这段时间。一些0day方向的PT站会在资源中注明pretime，以强调自身转发的速度，对于普通用户而言，pretime并没有太多实际意义。
+
+在介绍iNT组之前依然先说明几个概念：
+
+Non-Scene Group
+
+Non-Scene Group是区别于Scene Group的一些小组，这些小组不参与Topsite上的race，通过其他渠道发布自己的资源。按照作品的传播途径，又分为P2P Group和其他的Group。
+
+Warez意义上的P2P的概念详见此条目：http://zh.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E5%88%86%E4%BA%AB/
+
+国内比较流行的P2P主要有PT、BT、以及电驴（请注意电驴不等于verycd及其继承的simplecd）。
+
+我们常见的通过PT站点发布rlz的 WiKi、CHD等即属于P2P Group。而有些小组，只通过Usenet发布作品，其传播方式有别于P2P，只能成为其他的非P2P小组。在国外还有一种比较流行的资源分享渠道，即 Usenet，关于其具体方式可以参看此文：
+
+USENET简介
+
+推广Usenet
+
+Usenet：P2P下载的替代方法
+
+总而言之，P2P是Non-Scene Group进行作品传播的一种方式。Scene Group的成员大多非很反感P2P网络，常常会在rlz的NFO中附注“Fuck P2P”等字眼，因此虽然Scene的很多rlz最终还是流入到P2P网络之中，但Non-Scene Group，特别是其中的P2P Group和Scene Group是两个没有交集的部分，也就是说，不存在一个小组，既参与TS上的race，同时又自发的在P2P网络中发布小组作品，将Scene的rlz流 传出来至多只能算Scene成员的个人行为。
+
+在Non-Scene Group中，大部分的小组选择长期驻守在某个site上发布资源，我们称这些小组为某个site的内部发行组，即Internal组，简称iNT组。比 较著名的iNT组如HDB的CtrlHD、DON、Ebp、ESiR，TTG的WiKi，CHD的CHD等。早年国内著名的几个DVDrip小组 KiSS、NewMov还有韩国的WAF也都属于iNT组。
+
+需要区别的是，在Scene里面，也有internal的概念，其具体含义是：不太符合TDX标准（参见此帖）的作品，一些是Scene Group的成员自己个人随性制做，质量比较差，另一些则是grp认为依照TDX标准无法做出满意的质量,比如其中bitrate限制和codec限制过 于死板等，但不依照TDX做又会被NUKE，于是做成不参与race，只在自己的site内部传阅的作品，这种internal比较有收藏价值。所有这些 作品都会在命名里标记上iNT。因此，iNT组和iNT作品是两码事，Scene组偶尔也会制作一些iNT rlz。
+
+Encode-重编码作品
+
+发布组（rlz group）利用其内部渠道获得的DVD或Bluray-Disc片源，通过转换视频的编码格式（目前比较流行的是XVID和H264），达到压缩体积的 目的，最终封装后缀名为avi、mp4、mkv的文件我们称之为重编码作品，这个过程的制作者我们称为Encoder。
+
+以下局限在高清影视领域讨论各Group的Encode：
+
+由Scene，0day一些概念的简单解释可知：Scene组为了参与在TS上的race，时间成为他们首要考虑因素，只要压制出来的作品看上去没有太大的技术问题，就会发布出来。而驻守在各个 site上的iNT组则追求慢工出细活，将压制作品的品质放在首位，时间次之，因此在影视资源的品质上，iNT组是明显优于Scene组的。不过一个很好 玩的现状是，由于现在几个知名的Internal Group驻守的PT站点为了增强自身的竞争力，常会经由一些独占渠道抢先发布资源，结果是Internal组比Scene组发布速度还快。必须指出的 是，虽然从整体上看，iNT组所发布的作品画质确实优于Scene组（因为遵照High Definition x264 Standards Revision 4.0 的标准，Scene组压制的高清影视只能跑固定的参数），但是并不意味着Scene组的作品不可接受，在著名的PT站点SceneHD，只有Scene Group的作品是允许被上传的。
+
+而TOP组这个概念，其实只在国内一些小圈子里流行，国外并无TOP Group的说法。
+
+此概念最早由NHD的管理层提出，用于减少其站内的电影资源内容上的重复。
+
+其最早的规则如下：
+
+Scene & Internal, from Group to Quality-Degree. ONLY FOR HD-resources [Ver 1.1]
+
+从发布组名称，定义画质分级
+
+只适用于相同分辨率标准的高清压制作品
+
+顶级： 能在NexusHD上发布的最终版本。
+
+DON, CtrlHD, EbP, THORA, HDC
+
+另外， 任何质量接近于片源或者以上顶级压制组出品版本的作品同样享受此待遇。 (必须有无损的截图对比，适用于以下等级。
+
+不错：
+
+WiKi, EuReKa, HDxT, HiDT, ATHD, FraMeSToR, ESiR6
+
+还行：
+
+CHD, HDS, MySiLU, XTM, FoRM, CRiSC, SoW
+
+0day发布：
+
+速度远重于画质
+
+METiS, MELiTE, CBGB, LCHD, aBD, SiNNERS, REVEiLL, CiNEFiLE, hV, HALCYON, aAf, OUTDATED,
+
+DIMENSION, CTU, ORENJi, BiA, 2HD, BestHD, CYBERMEN, XPRESS, HANGOVER, iNFAMOUS, Chakra,
+
+THUGLiNE, AVS720, IMMERSE, Japhson, BAJSKORV, AVCHD, NGR, REFiNED, ALLiANCE, HAiDEAF
+
+NODLABS, FSiHD, DiCH, CROSSBOW
+
+发布优先级自高到低为从顶级到0day，任何PROPER（修正版）/REPACK（重制版）随时欢迎（适用于同等级）。
+
+我们同样提倡NexusHD会员自制作品的发布，但是画质一定要过关哦。。
+
+举例如下：
+
+如果站内已经有WALL-E的iNFAMOUS 720p版本，那么你可以上传WiKi的压制版本。
+
+之后，持有CtrlHD版本的会员可以随时上传但CHD版本不被允许。
+
+同样适用于1080p的发布标准
+
+旧的资源不会被人为删除。
+
+此标准里的0day，指的是参与高清影视制作的Scene Group，其他小组多为驻守在各个PT站或BBS的Internal Group（比较奇怪的是SoW，这个组经确认为德国的一个Scene Group）。
+
+此压制组分级标准随后被六维等PT站点引用，作为其Dupe制度的参考。NHD这个标准里，被划为顶级的几个组几乎都是HDB的Internal Group，且HDB一直凭借其高品质的重编码作品及入站的高门槛在众多PTer有着良好的口碑，加之该标准英文版将顶级译为TOP，故在某些高清发烧友 眼中，TOP组就是指部分HDB的iNT组，TOP组的概念也由此推广开来。
+
+需要的说明是：
+
+1.NHD的这个分级制度在大范围内其实并不被认可，即使在同一个小组（即使用相同的小组签名）也会因为理念的差异、经验的累积导致作品质量参差不齐。部分国外的资深PTer认为Encoder（即压制成员）比压制组更有参考价值。
+
+2.X264编码技术在近几年的飞速更新也是一个需要考虑的因素，从今天的眼光来看，三年前发布大量作品的ESiR组的rlz品质未见得优于现在的一些新组，尽管当时的ESiR为全球Internal Group之翘楚。
+
+小结：
+
+一个通俗易懂的结论：
+
+Scene = Speed
+
+Internal = Quality
+
+TOP组，也就是HDB的几个小组CtrlHD、DON、Ebp、ESiR整体而言作品质量较高，且发布的资源数量也非常多，在国内流传度非常高，他们的rlz是高清发烧友值得考虑的收藏对象。
+
+部分Scene Group的简介：
+
+Immerse 这个组在Scene可谓声名狼藉，在TS上为了race无所不用其极，经常发布劣质的encode，在YYETS的论坛，Immerse被人戏称为“骑兵 组”或“马赛克小组”该组为了抢快经常用很低的码率和参数，作品不是播放没有声音就是花屏，常年在TS上被Proper。喜欢美剧的混一些外站的PTer 应当特别留心这个组，很可能在别的站还没下载完就被网站的管理员删档了。
+
+同样是以发布美剧闻名的CTU、DIMENSION、ORENJi、SYS等组则很少出现这样的问题。
+
+Japhson 常常能看到这个组Proper其他Scene的作品。
+
+LCHD LooKMaNe 多发布亚洲影视作品。
+
+SoW 这个组多发布德语电影
+
+CiNEFiLE和SiNNERS以压制720P欧美电影为主的小组，作品流传度很广
+
+AMIABLE、Felony、METiS往往抢发大片，值得一提的是，METiS一度和iNT组共用片源，有些国外站因此误将METiS和WiKi视为同一个小组，将WiKi划入Scene组名单当中。
+
+TWiZTED 这个组经常会出Repack，自己压坏了之后赶紧重做。
+
+附注的是，很多组会身披不同马甲做标清视频和高清视频，目前已知的是：
+
+XII=IMMERSE（做标清的XII也压坏了很多美剧），FQM=CTU（冰与火之歌的第一季的0day版想必很多人还记得，标清的多是FQM的，高清的多是CTU的）LOL=DIMENSION，ORENJi=XOR以及IMBT=METiS
+
+部分Non-Scene Group介绍：
+
+高清PT站点HDB的Intenal Group,部分被视为TOP组：
+
+CtrlHD、CRiSC、DON、Ebp、ESiR、HDL、HDmonSK、HDxT、iLL、MMI、PerfectionHD、Prestige、RuDe3
+
+被称为HDB三大组的CtrlHD、DON、ESiR，以高质量和众多数量的Encode在PT圈内享有盛誉，ESiR的720P更是曾在PT界首屈一指， 风行于国内各大资源站点。ESiR由Thor小组演化而成，后又分离出Thora这样专心从事动漫的压制组。10年4月ESiR因内部问题人员变动，作品 质量和数量下滑，现已不在HDB发片，但HDB站内依然有大量ESiR的重编码作品。如今ESiR的地位已被Ebp取代，后者与CtrlHD、DON继续 在HDB成三足鼎立之势。
+
+HDmonSK、PerfectionHD则在HDB以发布BD原盘为主，不时也会释出一些Encode。
+
+iLL、MMI、RuDe以制作720P的HDTV为主，iLL一度是与CtrlHD、DON、ESiR并驾齐驱的四大组，现iLL、MMI已式微，只有RuDe仍不时可见作品放出。
+
+HDxT之前曾一度同时入驻HDB、HDC，其作品流传度不高，但质量很高。
+
+CRiSC、HDL、都是压制重编码作品的小组，其压制水平和压制数量都较三大组为逊色。
+
+DDR 这个组目前只知道在HDB主要发布印度电影，但是在HDB官方小组的list上没有这个组，因此未列在上面
+
+注：
+
+如今的三大组CtrlHD、DON、Ebp除以BD原盘为片源压制1080P和720P外，不时也会发布原盘和HDTV，今年最火爆的美剧《冰与火之歌》 CtrlHD即录制了前六集的1080i，而Ebp则利用CtrlHD及其他小组录制的1080i为片源压制了720P。
+
+三大组中不时可见国人活跃的身影，CtrlHD的Fransky目前依然以CtrlHD的签名发布着高品质的Encode,曾经是CtrlHD成员的 dizhuwang（linghuteng）压制水平很高，现在建立了LiNG的单人小组，曾先后是DON、WiKi成员的Jaychu128则将HDB 先进的压制理念带入到了国内，Prestige是他在HDB建立的个人小组。
+
+3.HDB由于站内的Dupe制度，其重编码的720P、1080P每种仅允许保留一个作品，因此CtrlHD在其他小组发布了encode之后，会通过Usenet等途径将本组重复压制的作品流出来。
+
+高清PT站点HDT的Intenal Group：
+
+DNL、EuReKA、HDMaNiAcS、HiDT、KRaLiMaRKo、ViSTA™、
+
+HDT 的几个压制组在P2P圈内也有一定的声望。HiDT主要压制720P作品，ViSTA™则以1080P为主，两个iNT组作品在国外PT站流传度较广，在 国内相对少见。ViSTA™似乎是单人小组，现在已经消失。KRaLiMaRKo和HDMaNiAcS为新加入的小组，前者专门制作remux，后者则压 制720P、1080P不等。DNL的作品不时在国内会见到转发，不过转发的也以720P HDTV多见。这三个小组的品质相对HiDT、ViSTA™这样的老牌还有很大的提升空间。
+
+EuReKA 像是PT圈子里的浪子，最早在Bit-HDTV上发布作品，08年底和Bit-HDTV的staff争吵后自行建站Eureka.org，后来站点出现状 况，转头Awsome-HD，因为感觉自己制作BD25伪原盘的理念在HDT无法的得到重视，现又离开自行成立PT站BD25（http://bd25.org/）且由原来重编码压制1080P改为制作BD5、BD9、BD25伪原盘。
+
+FraMeSToR
+
+这 个组是从EuReKA分离出来的小组。曾先后在Bit-HDTV、HDME等PT站常驻发布1080P，特点是封装无损音轨及次世代音轨，现自行建立PT 站点tracker.framestor-hd.org，其压制极为严苛，码率往往非常高，封装次世代音轨后有时1080P的encode比原盘还大。
+
+HDBRise
+
+此小组为罗马尼亚PT站HDBits.ro(注意是ro)的iNT组，主要以压制电影和音乐类视频（演唱会、音乐剧等）为主，既以原盘压制720P、1080P，也不时以HDTV压制720P作品，该小组在站外转发较多的作品主要是其音乐类视频。
+
+FLAWL3SS 这个组部分作品较好，但是经常会压制HDrip、BRrip，所以并不推荐
+
+下面国内的：
+
+WiKi、NGB
+
+两 个组最早都是驻守在HDC的iNT组，WiKi以BD为片源压制720P、1080P，NGB则以自录的HDTV压制720P剧集综艺。现均以离开 HDC，驻守在TTG发布作品。WiKi是由著名的DVDrip小组KiSS的组长天灰灰（同时也是现在的TTG站长）创建，其早期成员也多半来自 KiSS，初期的WiKi多加挂滤镜。在Jaychu128加盟后改向原盘画质靠拢，WiKi组的作品以720P多见，比较经典的则会压制1080P，转 移至TTG后基本上新出的原盘会同时出720P、1080P。
+
+10年中WiKi多位老组员退役，作品发布一度由动帝（dong1010）独力支撑，现在的 WiKi组内新人较多，故在国外认同度较低（很多老外更注重Encoder而非Group）但作品的品质一直保持着非常高的水准。NGB内部有专设的韩剧组和日剧组，分别由baby和kudo担任组长，以前NGB一般对外只发布其压制后的720P，现在也经常会将其1080i的片源流出来。
+
+CHD、CHDTV
+
+CHD 压制组制作的重编码1080P/720P/480P不仅仅在国内，在全球也有很大的影响力，近一年时间里，CHD多次全球首发众多大片，其作品在国内外都 有着很广的流传度，组内CHP压制的1080P更是众多高清发烧友收藏的首选。CHDTV则经常放出自己录制的1080i。
+
+HDChina、HDCTV（主页君注：现更名为HDW、HDWTV）
+
+现HDChina由原来的SiHD和HDChina合组而成，近段时间在新片的发布上非常迅速，在国内外依托着HDC的声望也得到了很多高清用户的认同，由于HDC有了单纯的KiSHD韩剧发布组，HDCTV主要以国产剧集、电影为主。
+
+HDS、MySilu
+
+最早的以思路论坛为主站的思路团队分裂后，SiLU小组解体，自行成立HDS和MySilu两个组，并分别在两家思路论坛及后来的HDS、HDR发布。MySilu全球首创remux技术，但两家的压制作品在其他站点的流传度都不是很高
+
+beAst、HDSTV
+
+beAst是由HDS黄教授的粉丝群成员发起成立的，近一年来发展迅速，依托着HDS的独家片源首发了很多资源，HDSTV为HDS新建的HDTV小组
+
+YYets、JDPT*
+
+两个录制组主要是录制日剧为主，JDPT现在驻守在G.因为明文禁止转载，自家又极少压制720P，因此流传度也不是很广，且由于日本对盗版的严厉打击，经常出现一季日剧烂尾的情况。
